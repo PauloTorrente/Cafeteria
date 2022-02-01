@@ -1,0 +1,101 @@
+body,html {
+    margin: 0;
+    background-color: burlywood;
+}
+
+.encabezado {
+    padding: 1%;
+    color: brown;
+    background-color: rgb(199, 134, 50, 0.589);
+    padding-bottom: 0,1%;
+        
+}
+
+
+hr {
+    border-bottom: 0px;
+    border-color: black;
+}
+
+.texto-productos {
+    color: brown;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+.carta {
+    position: relative;
+    left: 1%;
+}
+
+.cafe {
+    display: inline;
+    position: relative;
+    left: 40%;
+}
+
+.contacto {
+    display: inline;
+    position: relative;
+    right: -70%; border-bottom: 0px;
+    font-style: italic;
+}
+
+.titulo-pagina {
+    text-align: center;
+}
+
+
+section.tabla {
+    width: 100vw;
+    
+}
+
+div.productos {
+    float: left;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+}
+
+div.precios {
+    float: right;
+    text-align: center;
+    width: 50%;
+    height: 100%;
+}
+
+footer {
+    background-color: rgba(199, 134, 50, 0.589);
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 1em 0;
+    padding-top: 0.5em;
+    font-weight: bold;
+
+}
+
+.texto-precios {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.cursiva {
+    font-style: italic;
+}
+
+div.menu {
+    color: brown;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 20px;
+    
+}
+
+h2.titulo {
+    text-align: center;
+}
